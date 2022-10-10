@@ -3,12 +3,12 @@
 <h1>Hi, AJLM97 is Here 👋</h1>
 <h4 align="center">My full name is Alejandro Javier Ledesma Miño but Ale is fine, I am a full stack web developer who really loves typing on his keyboard. Time limits or technologies that I do not know are only an incentive for my enjoyment.</h4>
 
-<h2 align="left">Do you want to contact me?</h2>
+<h2 align="left">How to contact me</h2>
 
 - 🔹 https://www.linkedin.com/in/ajlm/
 - 🔹 alejandrojavierlemi@gmail.com
 
-<h2 align="left">Languages and Tools:</h2>
+<h2 align="left">Languages and Tools</h2>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
