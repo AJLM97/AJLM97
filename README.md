@@ -1,4 +1,4 @@
-<img src="https://i.ibb.co/WWxyT3Y/Banner-de-Linked-In-Tecnolog-a-Negro-2.png" style="width:100%;">
+<img src="https://i.postimg.cc/Yqb9H3HM/Banner-de-Linked-In-Tecnolog-a-Negro-3.png" style="width:100%;">
 
 <!--
 **AJLM97/AJLM97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
