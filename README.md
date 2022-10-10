@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/Yqb9H3HM/Banner-de-Linked-In-Tecnolog-a-Negro-3.png" style="width:100%;">
+<img src="https://i.postimg.cc/6qKqhWkh/Copia-de-Banner-de-Linked-In-Tecnolog-a-Negro.png" style="width:100%;">
 
 <h1>Hi, I'm Alejandro Javier Ledesma Miño 👋</h1>
 
@@ -7,9 +7,9 @@
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a> 
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1280px-Sass_Logo_Color.svg.png" alt="sass" width="40" height="40"/> </a>
-<a href="https://nodejs.org" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/node-js-736399_960_720.png" alt="nodejs" height="40"/> </a>
-<a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
+<a href="https://nodejs.org" target="_blank"> <img src="https://www.clipartmax.com/png/full/70-701332_hire-node-js-developer-node-logo.png" alt="nodejs" height="40"/> </a>
+<a href="https://expressjs.com" target="_blank"> <img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234-p-500.png" alt="express" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 
