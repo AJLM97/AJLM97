@@ -1,11 +1,12 @@
 <img src="https://i.postimg.cc/6qKqhWkh/Copia-de-Banner-de-Linked-In-Tecnolog-a-Negro.png" style="width:100%;">
 
 <h1>Hi, AJLM97 is Here 👋</h1>
-<h4 align="center">My full name is Alejandro Javier Ledesma Miño but Ale is fine, I am a complete web developer who really loves typing on his keyboard. Time limits or technologies that I do not know are only an incentive for my enjoyment.</h4>
+<h4 align="center">My full name is Alejandro Javier Ledesma Miño but Ale is fine, I am a full stack web developer who really loves typing on his keyboard. Time limits or technologies that I do not know are only an incentive for my enjoyment.</h4>
 
 <h2 align="left">Do you want to contact me?</h2>
-- 👋 https://www.linkedin.com/in/ajlm/
-- 👀 alejandrojavierlemi@gmail.com
+
+- 🔹 https://www.linkedin.com/in/ajlm/
+- 🔹 alejandrojavierlemi@gmail.com
 
 <h2 align="left">Languages and Tools:</h2>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
